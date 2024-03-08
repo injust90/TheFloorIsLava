@@ -11,5 +11,6 @@ public class March3Target : TargetRules
 		DefaultBuildSettings = BuildSettingsVersion.V4;
 		IncludeOrderVersion = EngineIncludeOrderVersion.Unreal5_3;
 		ExtraModuleNames.Add("March3");
+		Name = "ProjectNameEditor";
 	}
 }
